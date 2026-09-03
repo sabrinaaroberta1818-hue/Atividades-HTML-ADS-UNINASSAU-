@@ -1,0 +1,66 @@
+body{
+    background-image: url(https://cdn.midjourney.com/1a1f3ca0-554a-4c52-a9f6-37ee1ed90f0b/0_3.png);
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center; 
+    margin-top: 130px;
+    color: rgb(169, 0, 0);
+}
+
+h1{
+    color:rgb(169, 0, 0)
+}
+
+.password_forgot{
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color:rgb(169, 0, 0)
+}
+
+.account{
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 0px;
+    color:rgb(169, 0, 0)
+}
+
+.box{
+    width: 330px;
+    height: 420px;
+    border: 1px solid rgb(169, 0, 0);
+    margin: 100px auto;
+    padding: 20px;
+    background-color: rgb(255, 230, 193);
+    border-radius: 50px;
+    box-shadow: 5px 5px 50px rgb(242, 149, 149);
+}
+
+.buttonstyle{
+    margin: 10px 10px;
+    width: 75px;
+    height: 25px;
+    color:rgb(169, 0, 0);
+    border: 1px solid rgb(169, 0, 0);
+    border-radius: 5px;
+}
+
+.buttonstyle:hover {
+    background-color: rgb(169, 0, 0);
+    color: rgb(255, 230, 193);
+}
+
+.symbol{
+    width: 150px;
+    height: 38px;
+}
+
+input:focus {
+    border: 2px solid rgb(169, 0, 0);
+    outline: none;
+}
+
+.coloring{
+    color:rgb(169, 0, 0)
+}

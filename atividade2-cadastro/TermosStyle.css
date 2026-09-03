@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://thumbs.dreamstime.com/b/experience-ethereal-beauty-summer-garden-full-bloom-captivating-macro-photograph-showcases-exquisite-detail-360561630.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 18px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 0px;
+    color: rgb(169, 0, 0);
+    width: 100%;
+}
+
+h1{
+    color:rgb(169, 0, 0);
+    text-shadow: 2px 2px 4px rgb(242, 149, 149);
+}
+
+.box{
+    width: 990px;
+    height: 620px;
+    border: 1px solid rgb(169, 0, 0);
+    margin: 100px auto;
+    padding: 20px;
+    background-color: rgb(255, 230, 193);
+    border-radius: 50px;
+    box-shadow: 5px 5px 50px rgb(242, 149, 149);
+}
+
+.buttonstyle{
+    margin: 10px 10px;
+    width: 75px;
+    height: 25px;
+    color:rgb(169, 0, 0);
+    border: 1px solid rgb(169, 0, 0);
+    border-radius: 5px;
+}
+
+.coloring{
+    color:rgb(169, 0, 0)
+}

@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/6f/c7/9a/6fc79a60d2912ad4fcec0cbe118ac5dd.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color:rgb(169, 0, 0);
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.box{
+    width: 450px;
+    height: 520px;
+    border: 1px solid rgb(169, 0, 0);
+    margin: 100px auto;
+    padding: 20px;
+    background-color: rgb(255, 230, 193);
+    border-radius: 50px;
+    box-shadow: 5px 5px 50px rgb(242, 149, 149)
+}
+
+.buttonstyle{
+    margin: 10px 10px;
+    width: 75px;
+    height: 25px;
+    color:rgb(169, 0, 0);
+    border: 1px solid rgb(169, 0, 0);
+    border-radius: 5px;
+}
+
+.buttonstyle:hover {
+    background-color: rgb(169, 0, 0);
+    color: rgb(255, 230, 193);
+}
+
+.coloring{
+    color:rgb(169, 0, 0)
+}
