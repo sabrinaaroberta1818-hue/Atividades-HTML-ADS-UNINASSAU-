@@ -49,4 +49,11 @@ h1{
     height: 38px;
 }
 
+input:focus {
+    border: 2px solid rgb(169, 0, 0);
+    outline: none;
+}
 
+.coloring{
+    color:rgb(169, 0, 0)
+}
